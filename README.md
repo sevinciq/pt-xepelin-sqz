@@ -1,7 +1,7 @@
 # pt-xepelin-sqz
 prueba técnica Xepelin
 
-Para ambos problemas de lógica decidí usar JavaScript a pesar de que no tener muhca experencia con el lenguaje
+Para ambos problemas de lógica decidí usar JavaScript por simplicidad a pesar de que no tener mucha experencia con el lenguaje
 
 1. El primer problema se encuentra resuelto en la función: Xepelin.js y al correr el script testea los 4 posibles casos:
 divisible por 15, 3, niuno y 5
@@ -10,9 +10,10 @@ divisible por 15, 3, niuno y 5
 otra para calcular cada uno de los elementos del nuevo arreglo. Finalmente hace un test con un arreglo random. 
 
 3. Para el MVP opté por algo sencillo, sin ningún tipo de validación seria para el login. Las credenciales son: 
- 
- username = 'admin' y password = '123'.
- 
+```
+ username = 'admin'
+ password = '123'.
+```
 Una vez validadas las credenciales se oculta el login y se muestra el embed del google sheets. 
 Finalmente cree una nueva planilla, la cual está en:
 https://docs.google.com/spreadsheets/d/15Vd0foqFeLtIS__fmovkcAZKd80kbrICO561bSxwVLg/edit?usp=sharing
