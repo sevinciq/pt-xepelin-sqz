@@ -1,5 +1,5 @@
 # pt-xepelin-sqz
-prueba técnica Xepelin
+Prueba técnica ProductEngineer
 
 Para ambos problemas de lógica decidí usar JavaScript por simplicidad a pesar de que no tener mucha experencia con el lenguaje
 
